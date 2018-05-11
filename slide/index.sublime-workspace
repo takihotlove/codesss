@@ -1,0 +1,687 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pa",
+				"paper-type"
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"init",
+				"initial"
+			],
+			[
+				"ver",
+				"vertical-align"
+			],
+			[
+				"rel",
+				"relative"
+			],
+			[
+				"tr",
+				"trigger"
+			],
+			[
+				"set",
+				"setInterval\t(responsiveCarousel.min.js)"
+			],
+			[
+				"au",
+				"auto\t(responsiveCarousel.min.js)"
+			],
+			[
+				"t",
+				"tbody\tTag"
+			],
+			[
+				"ca",
+				"caption\tTag"
+			],
+			[
+				"hi",
+				"highlight"
+			],
+			[
+				"OPP",
+				"OPP袋"
+			],
+			[
+				"th",
+				"thead\tTag"
+			],
+			[
+				"text",
+				"text-indent"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"2層",
+				"2層シール"
+			],
+			[
+				"li",
+				"lis"
+			],
+			[
+				"query",
+				"querySelectorAll"
+			],
+			[
+				"get",
+				"getElementsByTagName"
+			],
+			[
+				"f",
+				"floor"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"tra",
+				"transparent"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"pal",
+				"placeholder"
+			],
+			[
+				"form-",
+				"form-control"
+			],
+			[
+				"g",
+				"glyphicon"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"over",
+				"overflow-y"
+			],
+			[
+				"con",
+				"container-fluid"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"padding",
+				"padding"
+			],
+			[
+				"conta",
+				"container-fluid"
+			],
+			[
+				"bak",
+				"background"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"b",
+				"block"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"シングル",
+				"シングルタイプシール・PVC77kg・ラミネート有・80x80mm・四角裁断・特色1色"
+			],
+			[
+				"ds",
+				"display"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"backgro",
+				"background-size"
+			],
+			[
+				"ima",
+				"border-image"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"tex",
+				"text-indent"
+			],
+			[
+				"np",
+				"no-repeat"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"background",
+				"background-position"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"img",
+				"img_wrap\t(adSeal_mainPage.html)"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"border",
+				"border-style"
+			],
+			[
+				"class",
+				"class"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"lin",
+				"line-height"
+			],
+			[
+				"main",
+				"main.css"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"sub_",
+				"sub_menu_c"
+			],
+			[
+				"sub",
+				"sub_menu_c"
+			],
+			[
+				"do",
+				"Document"
+			],
+			[
+				"tran",
+				"transition"
+			],
+			[
+				"blod",
+				"bolder"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"text-A",
+				"text-align"
+			],
+			[
+				"list",
+				"list-style"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 308.0,
+		"last_filter": "html",
+		"selected_items":
+		[
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"py",
+				"Set Syntax: Python"
+			],
+			[
+				"rb",
+				"Set Syntax: Ruby"
+			],
+			[
+				"j",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"rub",
+				"Set Syntax: Ruby"
+			],
+			[
+				"ruby",
+				"Set Syntax: Ruby"
+			],
+			[
+				"h",
+				"Set Syntax: HTML"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"\\",
+				"Emmet: Split\\Join Tag"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Package i",
+				"Package Control: Install Package"
+			],
+			[
+				"Package control:i",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 412.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"python C:\\Users\\marketing2\\Desktop\\edu\\python_ruby\\number_2.py",
+			"C:\\Users\\marketing2>python C:\\Users\\marketing2\\Desktop\\edu\\python_ruby\\number_2.py",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Z/사업2부/(개인)박현경/코딩작업/sub_bottom_170405_차내스티커내용수정전.html",
+		"/C/Users/marketing2/Desktop/코딩작업/나루호도싯테오토쿠_tileStyle게시판코드개발_170309.html",
+		"/C/Users/marketing2/Desktop/코딩작업/subTop_리뉴얼전백업_20170511.html",
+		"/C/Users/marketing2/Downloads/Tiny-Flexible-jQuery-Responsive-Tabs-Plugin-mTab/Tiny-Flexible-jQuery-Responsive-Tabs-Plugin-mTab/mTab.html",
+		"/C/Users/marketing2/Downloads/Tiny-Flexible-jQuery-Responsive-Tabs-Plugin-mTab/Tiny-Flexible-jQuery-Responsive-Tabs-Plugin-mTab/css/mTab-style.css",
+		"/C/Users/marketing2/Downloads/Tiny-Flexible-jQuery-Responsive-Tabs-Plugin-mTab/Tiny-Flexible-jQuery-Responsive-Tabs-Plugin-mTab/js/jquery-mTab-min.js",
+		"/C/Users/marketing2/Desktop/코딩작업/싱가폴/backup_20180110/create_artwork.txt",
+		"/C/Users/marketing2/Downloads/Easy-Responsive-Tab-Accordion-Control-Plugin-For-jQuery/Easy-Responsive-Tab-Accordion-Control-Plugin-For-jQuery/easy-responsive-tabs.js",
+		"/C/Users/marketing2/Downloads/Easy-Responsive-Tab-Accordion-Control-Plugin-For-jQuery/Easy-Responsive-Tab-Accordion-Control-Plugin-For-jQuery/easy-responsive-tabs.css",
+		"/C/Users/marketing2/Downloads/Easy-Responsive-Tab-Accordion-Control-Plugin-For-jQuery/Easy-Responsive-Tab-Accordion-Control-Plugin-For-jQuery/index2.html",
+		"/C/Users/marketing2/Downloads/Easy-Responsive-Tab-Accordion-Control-Plugin-For-jQuery/Easy-Responsive-Tab-Accordion-Control-Plugin-For-jQuery/index.html",
+		"/C/Users/marketing2/Downloads/Simple-Responsive-jQuery-Tabs-Accordion-Plugin/Simple-Responsive-jQuery-Tabs-Accordion-Plugin/js/responsivetabs.min.js",
+		"/C/Users/marketing2/Downloads/Simple-Responsive-jQuery-Tabs-Accordion-Plugin/Simple-Responsive-jQuery-Tabs-Accordion-Plugin/css/responsivetabs.css",
+		"/C/Users/marketing2/Downloads/Simple-Responsive-jQuery-Tabs-Accordion-Plugin/Simple-Responsive-jQuery-Tabs-Accordion-Plugin/index.html",
+		"/C/Users/marketing2/Downloads/Easy-Responsive-Tab-Accordion-Control-Plugin-For-jQuery/Easy-Responsive-Tab-Accordion-Control-Plugin-For-jQuery/jquery.js",
+		"/C/Users/marketing2/Downloads/Easy-Responsive-Tabs-to-Accordion-master/Easy-Responsive-Tabs-to-Accordion-master/Index.html",
+		"/C/Users/marketing2/Downloads/Simple-jQuery-Responsive-Tabs-Interface-Plugin-jQueryTab/Simple-jQuery-Responsive-Tabs-Interface-Plugin-jQueryTab/index.html",
+		"/C/Users/marketing2/Downloads/Simple-jQuery-Responsive-Tabs-Interface-Plugin-jQueryTab/Simple-jQuery-Responsive-Tabs-Interface-Plugin-jQueryTab/animation.css",
+		"/C/Users/marketing2/Downloads/Simple-jQuery-Responsive-Tabs-Interface-Plugin-jQueryTab/Simple-jQuery-Responsive-Tabs-Interface-Plugin-jQueryTab/js/jQueryTab.js",
+		"/C/Users/marketing2/Downloads/Accordion-Like-Content-Tabs-Plugin-with-jQuery-Easy-Responsive-Tabs/Accordion-Like-Content-Tabs-Plugin-with-jQuery-Easy-Responsive-Tabs/js/easyResponsiveTabs.js",
+		"/C/Users/marketing2/Downloads/Easy-Responsive-Tabs-to-Accordion-master/Easy-Responsive-Tabs-to-Accordion-master/js/easyResponsiveTabs.js",
+		"/C/Users/marketing2/Downloads/Lightweight-jQuery-Responsive-Tabs-Accordion-Plugin-Responsive-Tabs/Lightweight-jQuery-Responsive-Tabs-Accordion-Plugin-Responsive-Tabs/demo.html",
+		"/C/Users/marketing2/Downloads/Easy-Responsive-Tabs-to-Accordion-master/Easy-Responsive-Tabs-to-Accordion-master/Index2.html",
+		"/C/Users/marketing2/Downloads/jquery-drawsvg-delay-fill-callback/js/index.js",
+		"/C/Users/marketing2/Downloads/jquery-drawsvg-delay-fill-callback/css/style.css",
+		"/C/Users/marketing2/Downloads/jquery-drawsvg-delay-fill-callback/index.html",
+		"/C/Users/marketing2/Downloads/Easy-Responsive-Tabs-to-Accordion-master/Easy-Responsive-Tabs-to-Accordion-master/css/easy-responsive-tabs.css",
+		"/C/Users/marketing2/Desktop/코딩작업/subTop_10월긴급공지적용백업_20171005.html",
+		"/C/Users/marketing2/Downloads/Responsive-Tabs-master (1)/Responsive-Tabs-master/index.html",
+		"/C/Users/marketing2/Downloads/Responsive-Tabs-master (1)/Responsive-Tabs-master/js/responsiveTabs.min.js",
+		"/C/Users/marketing2/Downloads/Responsive-Tabs-master/Responsive-Tabs-master/css/style.css",
+		"/C/Users/marketing2/Downloads/Responsive-Tabs-master/Responsive-Tabs-master/js/jquery.responsiveTabs.min.js",
+		"/C/Users/marketing2/Downloads/Responsive-Tabs-master/Responsive-Tabs-master/css/responsive-tabs.css",
+		"/C/Users/marketing2/Downloads/Responsive-Tabs-master/Responsive-Tabs-master/demo.html",
+		"/C/Users/marketing2/Desktop/logo_animation.html",
+		"/C/Users/marketing2/Desktop/logo.svg",
+		"/C/Users/marketing2/Downloads/Snap.svg-0.5.1/Snap.svg-0.5.1/demos/animated-game/js/snap.svg.js",
+		"/C/Users/marketing2/Downloads/Snap.svg-0.5.1/Snap.svg-0.5.1/demos/clock/index.html",
+		"/C/Users/marketing2/Downloads/Snap.svg-0.5.1/Snap.svg-0.5.1/demos/illustrated-infographic-coffee/demo.svg",
+		"/C/Users/marketing2/Desktop/sdsdsd.xml",
+		"/C/Users/marketing2/Downloads/AnimatedTextFills/AnimatedTextFillsAll/index17.html",
+		"/C/Users/marketing2/Desktop/코딩작업/20171110_subBottom_표POP재질130삭제전.txt",
+		"/C/Users/marketing2/Downloads/slick-master/slick-master/index.html",
+		"/C/Users/marketing2/Desktop/adst.svg",
+		"/C/Users/marketing2/Desktop/코딩작업/subTop_10월긴급공지前백업_20171003.html",
+		"/C/Users/marketing2/Desktop/코딩작업/subTop_리뷰전백업_20171002.html",
+		"/C/Users/marketing2/Downloads/horizontal-slider-source-code/demo/js/responsiveCarousel.min.js",
+		"/C/Users/marketing2/Downloads/horizontal-slider-source-code/demo/css/styles.css",
+		"/C/Users/marketing2/Downloads/horizontal-slider-source-code/demo/index.html",
+		"/C/Users/marketing2/Desktop/edu/less/css/sample.less",
+		"/C/Users/marketing2/Desktop/edu/less/demo1.html",
+		"/C/Users/marketing2/Desktop/Easy-Responsive-Tab-Accordion-Control-Plugin-For-jQuery/Easy-Responsive-Tab-Accordion-Control-Plugin-For-jQuery/index.html",
+		"/C/Users/marketing2/Desktop/responsive-tabbed-navigation/responsive-tabbed-navigation/js/main.js",
+		"/C/Users/marketing2/Desktop/responsive-tabbed-navigation/responsive-tabbed-navigation/img/vicons.svg",
+		"/C/Users/marketing2/Desktop/responsive-tabbed-navigation/responsive-tabbed-navigation/index.html",
+		"/C/Users/marketing2/Desktop/style.css",
+		"/C/Users/marketing2/Downloads/moesia.1.41/moesia/footer.php",
+		"/C/Users/marketing2/Downloads/moesia.1.41/moesia/header.php",
+		"/C/Users/marketing2/Downloads/moesia.1.41/moesia/admin-header.php",
+		"/C/Users/marketing2/Desktop/df.html",
+		"/C/Users/marketing2/Desktop/edu/python_ruby/string_3.rb",
+		"/C/Users/marketing2/Desktop/코딩작업/naruhodo_170310_나루호도싯테오토쿠컨텐츠페이지생성.html",
+		"/C/Users/marketing2/Desktop/코딩작업/sub_bottom_170321_opp봉투_전체링크.html",
+		"/C/Users/marketing2/Desktop/코딩작업/sub_bottom_170310_addLinks.html",
+		"/C/Users/marketing2/Desktop/코딩작업/sub_bottom_170302_addLinks.html",
+		"/C/Users/marketing2/Desktop/코딩작업/애드메인뉴스_170314.html",
+		"/C/Users/marketing2/Desktop/d.html",
+		"/C/Users/marketing2/Desktop/edu/python_ruby/string_3.py",
+		"/C/Users/marketing2/Desktop/jPages-master/jPages-master/pagination.html",
+		"/C/Users/marketing2/Desktop/jPages-master/jPages-master/js/jPages.js",
+		"/C/Users/marketing2/Desktop/edu/example/jPages-master/jPages-master/customizebuttons.html",
+		"/C/Users/marketing2/Desktop/jPages-master/jPages-master/css/style.css",
+		"/C/Users/marketing2/Desktop/edu/example/jPages-master/jPages-master/js/jPages.js",
+		"/C/Users/marketing2/Desktop/edu/python_ruby/string_2.rb",
+		"/C/Users/marketing2/Desktop/edu/python_ruby/string_2.py",
+		"/C/Users/marketing2/Desktop/edu/python_ruby/string_1.Appraisals",
+		"/C/Users/marketing2/Desktop/edu/javascript/ElementByTagname.html",
+		"/C/Users/marketing2/Desktop/edu/javascript/getByClassId.html",
+		"/C/Users/marketing2/Desktop/edu/Jquery/control.html",
+		"/C/Users/marketing2/Desktop/edu/Jquery/jquery1.html",
+		"/C/Users/marketing2/Desktop/edu/javascript/querySelectorAll.html",
+		"/C/Users/marketing2/Desktop/코딩작업/sub_top_170307_이전메인상품사진.html",
+		"/C/Users/marketing2/Desktop/코딩작업/sub_top_170307_이전메인상품사진",
+		"/C/Users/marketing2/Desktop/코딩작업/sub_Top_20170303_메인상품사진.html",
+		"/C/Users/marketing2/Desktop/edu/javascript/javascrip filter.html",
+		"/C/Users/marketing2/Desktop/edu/python_ruby/number_2.rb",
+		"/C/Users/marketing2/Desktop/edu/python_ruby/string_1.py",
+		"/C/Users/marketing2/Desktop/edu/python_ruby/number_2.py",
+		"/C/Users/marketing2/Desktop/edu/python_ruby/number_2.Appraisals",
+		"/C/Users/marketing2/Desktop/edu/bootstrap/aed_company.html",
+		"/C/Users/marketing2/Desktop/edu/javascript/demo1",
+		"/C/Users/marketing2/Desktop/코딩작업/subtop리뉴얼_20170213.html",
+		"/C/Users/marketing2/Desktop/코딩작업/subtop리뉴얼_20170213.css",
+		"/C/Users/marketing2/Desktop/edu/bootstrap/demo.html",
+		"/C/Users/marketing2/Desktop/edu/bootstrap/demo2.html",
+		"/C/Users/marketing2/Desktop/adSeal/main.css",
+		"/C/Users/marketing2/Desktop/코딩작업/submain_layout_modify_배너左가격右.html",
+		"/C/Users/marketing2/Desktop/코딩작업/sub_top_170103.html",
+		"/C/Users/marketing2/Desktop/코딩작업/sub_top_deadLine_161121.html",
+		"/C/Users/marketing2/Desktop/코딩작업/dataInfo_dataMaking_addWaji_161219",
+		"/C/Users/marketing2/Desktop/코딩작업/submain_layout_modify.html",
+		"/C/Users/marketing2/Desktop/submain_modify.html",
+		"/C/Users/marketing2/Desktop/이관_코딩자료/subTop_161221_롤스티커마감임박배너변경전.html",
+		"/C/Users/marketing2/Desktop/코딩작업/sub_top_Original_161130.html",
+		"/C/Users/marketing2/Desktop/코딩작업/waji_intro_sy_161216_addText.html",
+		"/C/Users/marketing2/Desktop/adSeal/adSeal_mainPage.html",
+		"/C/Users/marketing2/Desktop/연습/layout_1.html",
+		"/C/Users/marketing2/Desktop/adSeal_mainPage.html",
+		"/C/Users/marketing2/Desktop/main.css",
+		"/C/Users/marketing2/Desktop/mailMaga_2department.html",
+		"/C/Users/marketing2/Desktop/jsImgSlider/jsImgSlider/demo1.html",
+		"/C/Users/marketing2/Desktop/연습/메뉴실습/menu1.html",
+		"/C/Users/marketing2/Desktop/코딩작업/sub_bottom_161121_addwaji.html",
+		"/C/Users/marketing2/Desktop/코딩작업/sub_bottom_161202_addPhoto.html",
+		"/C/Users/marketing2/Desktop/코딩작업/waji_intro_sy_161202_Original.html",
+		"/C/Users/marketing2/Desktop/코딩작업/waji_intro_sy_161202_photo_changed.html",
+		"/C/Users/marketing2/Desktop/연습/메뉴실습/style.css",
+		"/C/Users/marketing2/Desktop/코딩작업/rollSticker_intro_Original_161201.html",
+		"/C/Users/marketing2/Desktop/코딩작업/sub_bottom_161130_textDelete.html",
+		"/C/Users/marketing2/Desktop/코딩작업/sub_top_Original_161130",
+		"/C/Users/marketing2/Desktop/코딩작업/sub_top_161130_slide_li_Delete_beforeBannar.html",
+		"/C/Users/marketing2/Desktop/코딩작업/sub_bottom_Original_161130.html",
+		"/C/Users/marketing2/Desktop/코딩작업/sub_가격배너_이전데이터.html",
+		"/C/Users/marketing2/Desktop/연습/spritely.html",
+		"/C/Users/marketing2/Downloads/spritely-0.6.8/spritely-0.6.8/src/jquery.spritely.js",
+		"/C/Users/marketing2/Downloads/spritely-0.6.8/spritely-0.6.8/spritely.jquery.json",
+		"/C/Users/marketing2/Downloads/spritely-0.6.8/spritely-0.6.8/MIT-LICENSE.txt",
+		"/C/Users/marketing2/Downloads/spritely-0.6.8/spritely-0.6.8/.gitignore"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 122.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 46.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 264.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+	}
+}
